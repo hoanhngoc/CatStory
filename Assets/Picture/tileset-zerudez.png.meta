@@ -1,0 +1,3368 @@
+fileFormatVersion: 2
+guid: 411f5b803504e074ca77f886eb6b6472
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset-zerudez_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d840513882f540046bb3e84dbec6b39e
+      internalID: -836924652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 673
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23062913a2b43c4ea5b44620ce40296
+      internalID: 1065373514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 692
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57073c1f5a1b822418e1c3ab5ddbd404
+      internalID: 1554180308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 692
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8c35600e038be419a8755fd4cbfbfe
+      internalID: 1753158490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 692
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d6083db0c421b44922be5700664861
+      internalID: 689046157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 693
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0cc87ef7424a447aa3919571b047aa
+      internalID: 1294027175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 693
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b1d679ddb26e449a8ed04125155ed5
+      internalID: 1013467365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 691
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184359708453daa45b1aab458ab8c0d8
+      internalID: -1566785652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 691
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabd0ca9d96f3a84bbe0d1f4c2a2fa0c
+      internalID: -921634539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 691
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fc5ba58b3d0ec4a82932a4e8c9acc5
+      internalID: 2087683416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 690
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae67d5e5f0abacd43bb056a858cd2ba7
+      internalID: 55680887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 691
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ce93374cd7f84fa45414b4dc5f825
+      internalID: -565672528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 690
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7034b9e43671d1a4080e79c365fee2fc
+      internalID: 1645482670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 692
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7474ef5d0359148892dd5472f7f887
+      internalID: 1281422704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 690
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9365959cfd6984d9ebb45b753b0e07
+      internalID: -761718938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 689
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1f415f75bd0a743b84dbe858bc19df
+      internalID: 1186606877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 692
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8202463d1b8ea4797eb72194751f2e
+      internalID: 2051491734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 693
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f322c0eb7de7283499276908808b6eb1
+      internalID: 1991600289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a537a2b898f45a74aa8a8fefd61b4d8b
+      internalID: -870615524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b85f1ff775c9c409a780cc3f06fab8
+      internalID: -1128036697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675a6c21ee40b14e9a1276f0a0961b2
+      internalID: -842362407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118fc8befc42cbf42911786a47f49774
+      internalID: 1138823916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5048728dcca914dbaedfea669ace04
+      internalID: -1332559313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9265c64383864e82fb98d9cbc0548
+      internalID: -1116206943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eb2b2c4fa106f42af2e88f8f3bd221
+      internalID: -388927627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca19e2fdffe1b7e4b8bf3bb2b10d707b
+      internalID: 1078321767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68052920cd12a3b4688cc33497334466
+      internalID: -1216450811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7340206e674ae194ba29cc08da227bc4
+      internalID: 1569709095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356acf8b7478a0241970851fd305732e
+      internalID: 285458320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f91f98af804a443966cbe1e8ec002f
+      internalID: -1558670118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aedcc65b5a172447ba703aefc4e00fe
+      internalID: 1854267600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ecf0ede71a82d4d9e198ce340487bb
+      internalID: -1300539893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_32
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2545e3779e891c43859b8681c9de352
+      internalID: -2051071305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6579c69d6b06f4fbc36f2b3ba0e73f
+      internalID: -771977784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4082f5ccea25ee0459a22e65631888f8
+      internalID: 1954144045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_35
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912f32df12ebef348b7962d3a58e5e73
+      internalID: 1479830630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_36
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba879fdbb6fd04b43b82f45d25791af3
+      internalID: 811628745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a4c342e69ff0e44a589bd27391a3b7
+      internalID: 2054565128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_38
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb048542a63fb54baad5c955a70e60e
+      internalID: -2000777569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_39
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cdfb97735e67142b7371054f7c73a8
+      internalID: 797783660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_40
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade3780253518d444840cdf889a19ee2
+      internalID: 1396327147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df0e0ba0d59bce4e92ce0bdd6f970a3
+      internalID: 1691003136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_42
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dab1560bff180b448a3cddf5dab2e8d
+      internalID: 1561748240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_43
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5daed9c11c30d94c92be712a9ed0e64
+      internalID: -2038976482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_44
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 676
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70f947576558649850d7aa5e841373
+      internalID: -562888575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_45
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 16, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9989d77398da842991f63dfbe3d0a3
+      internalID: 225852288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_46
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 676
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c37e1543ca702f488178b492ecc90f9
+      internalID: -1561791867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_47
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 16, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677aa272f669866428cfaa8121a87111
+      internalID: -125303743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_48
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 676
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c78b93a74c03445a191d301e65988f
+      internalID: -1391374750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_49
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 673
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 16, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e6c53ffcd9c04fa215458407381d3
+      internalID: 572319480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9cb6a9e070c5b479368a5c679b508b
+      internalID: -89222349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca205a612650814da96f6568a363713
+      internalID: 1930413506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588a5bc18302c3419384d0086b52da7
+      internalID: 1252243762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b3094b3fbb9549ac5d3e47ca5bd5d
+      internalID: 1316070525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126e4caef2f77949976710b7568ca51
+      internalID: -1505109767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ebfebe946e33c49a65ff132a10f589
+      internalID: -285855265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aea0ef061bacb646b9e7b6baeb017ce
+      internalID: -1470476455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_57
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8bb0919873ba7439f2b3546ec42583
+      internalID: 1924806603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_58
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ae705916f413a4dadea5417d513877
+      internalID: -576990915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_59
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764c587f3bae01145a706d2473c56536
+      internalID: -866703394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_60
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a14259a7b45a34ba4de379d5149b3c
+      internalID: 755166694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_61
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0e77126d3cf3a45ae57d79e8b21615
+      internalID: 630692083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_62
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b646900639096454bb66063fdd099ee1
+      internalID: -1252063530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_63
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5099192fdf9094a4d93b0ac6607c2291
+      internalID: -1948733733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_64
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 627
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1908b5168c4d7046918ea54f4a067b4
+      internalID: -1339348783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_65
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 629
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c14118c2406f44a82c769101200606
+      internalID: 2049955490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_66
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 629
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fa884d61f7eae49a095612edc18161
+      internalID: -1752256622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_67
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 629
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97c09c890d3b7a47b708858a7573fae
+      internalID: -870301666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 561
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada454bd4af5ee4986514bab4ee7a69
+      internalID: 750588821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 561
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d276e7c7fbf17e47aee22f72e3f35df
+      internalID: 1935368822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 593
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d074e1a9600d44085e70c5c47f4a2d
+      internalID: -454564908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 561
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d995ed0e544e44e989cef67730ce95
+      internalID: -1408836260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_72
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 578
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03086b65163b994fbea4b9a19913bc4
+      internalID: -488713335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 578
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79385a731cfc4547bf4f4da1075a2da
+      internalID: -1713099762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_74
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 594
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8494dad757c05a943ae9777ce49aa6f2
+      internalID: -504577764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_75
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 594
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd11b53f5a153468282c68b7c21d31
+      internalID: -1858371325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 529
+        width: 496
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4eb3602715e304ca4e70a95b1e0cf9
+      internalID: 1515527477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 561
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e736c2ea9248245a8ab9876f64c8a7
+      internalID: 1226322168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_78
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 561
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fee1d874720e7d4a927c02f2c0dd87d
+      internalID: -555322880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 497
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f2a54e8426a5c4e9f415b133072078
+      internalID: 226205206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_80
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 497
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d7132274fa700478d518ea8bbb01ab
+      internalID: 1791133497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 497
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4a1866fe3e01149841dd2f672a7edf
+      internalID: -170699292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 497
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e702981b7c53ec46b3be3bfb3963b7f
+      internalID: 2048461056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_83
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 497
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df901d1fe37308a4c99b7d4c81c61807
+      internalID: -144287645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_84
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 497
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87607d5570555f6419c3ace724905cbe
+      internalID: -195849256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_85
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 549
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b71f418767a9a40943bc7aa7d539d1
+      internalID: 1108314272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 432
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e522c9867cad4543b84334cdcf1424a
+      internalID: -927880791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_87
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 432
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334f0f156cc4e949b3ede1b79fb5d03
+      internalID: -252884684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 433
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f53ec190869b04c84247e96c4ccc57
+      internalID: 2005045072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 433
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a07a6a7e91c3041898d0b5c303ad4d
+      internalID: -378552405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 431
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ba147de1d69624088146f919e936b0
+      internalID: 235449336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_91
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 433
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac015ea7aad60f40986956eac2530a7
+      internalID: -1568067560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_92
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 433
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9de9001f6e97374b9c22f82778dddc1
+      internalID: 1977375000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 410
+        width: 480
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a44753e34a91274aa186525ecbff67f
+      internalID: 398578820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_94
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 369
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ee832f330540144a0ecd02d178b993
+      internalID: 1595216557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_95
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 369
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ec5f208eed01845b256d7f32ff9957
+      internalID: -461388091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_96
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 353
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02f38dd58848e249a39c1cdc661bc2b
+      internalID: 661654013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_97
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 369
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d9188455170447b90a2938d61a5bb
+      internalID: -1839936624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 369
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d5b0476f83ba94382cbb6145886e3b
+      internalID: 492156082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_99
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 403
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810d6fbad5e2e3d45afd30800034e495
+      internalID: -1647929036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 353
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe822645a03a1f4886a0f633de88fe8
+      internalID: -474478975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_101
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 305
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f936442b698a01f4ab8fff3baab8c076
+      internalID: 634869013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_102
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 305
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affdf83b96079554990abf4539b4bee5
+      internalID: 2012462557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_103
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 354
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7491118aa260148b62c756906e738b
+      internalID: -1694450296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 355
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb16e82f01f864aa45d5fcc7cf14a7
+      internalID: -1675456101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 289
+        width: 144
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb69c3f62bb2a29498e0da504418e7d2
+      internalID: 1477667367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 297
+        width: 480
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e19d1ffa39ae149aecd7a30519fbad
+      internalID: 1971151846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_107
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 307
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3489fe0be0d0394189b77ca2419f61f
+      internalID: -1155386576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_108
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 341
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cc990e02dc7a74a9fdc8e016a25d44
+      internalID: -445274472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 306
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8074741b2f2d094c946f3522186e7d1
+      internalID: -207310925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 273
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef8c72a33aaf7e43b31bcc6e3a41c26
+      internalID: -1336300473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_111
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 241
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4c0ce72420b044eaad57b05f70686f
+      internalID: -361315103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_112
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 241
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6094e2109d1e84abd4dd59f18ceb7b
+      internalID: 215033816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 292
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d11f785281ad049b3c2773f552e5ef
+      internalID: -1668960329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_114
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 293
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfc7e50e9b32824f969306551a60e7f
+      internalID: -178303911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_115
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58a4a1ee841943408018a02975665fd
+      internalID: 1258555958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 276
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb63558b1a52c040acd083e17be0d03
+      internalID: 554609694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_117
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 277
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4770a814afac11b48beed6a5dc8b2d7e
+      internalID: -719551253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_118
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 276
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4acb964377618a48b2f33d31b39b496
+      internalID: 889374035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 209
+        width: 144
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2216c1defe4f90e41b6a931b97b0af35
+      internalID: -1511795303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_120
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 228
+        width: 10
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd847d30192284eba71d963a6f5358
+      internalID: 529090809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_121
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 228
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef760372c9aba0c4fb1a0398e304900f
+      internalID: 771863703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_122
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 228
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcdcdb0b3356b349837be17308e6750
+      internalID: -988797515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_123
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 228
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8887d0562d7914d94c30df8590c17d
+      internalID: 2093028463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_124
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 228
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92873254df4d4d43929b87dd4c156b4
+      internalID: 1577283873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_125
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 228
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5828c7a1f3bdd3b48830419adce1515b
+      internalID: -1682085669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_126
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 228
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf1e8ebdae56834a9e23653a37f0344
+      internalID: 1813879084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_127
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 177
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66dce29c05e1434d821639c767c9371
+      internalID: -1915587788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_128
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 177
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7667ed1e926949469eddaad24edf200
+      internalID: -1660538179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_129
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 209
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c424161a23f0a5640bbdcb20c40a8f51
+      internalID: -1523629278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_130
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 228
+        width: 10
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fd72fa1bf419a47b659b6b97cadf72
+      internalID: 1238872720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_131
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 228
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9f05b76b0d4240a50124b8ed75b94
+      internalID: 1101574726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_132
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 228
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec854a44467853f4886025d0eef0b1bf
+      internalID: -83865836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_133
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 228
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bfce7c11831eb438628ab05c56feb4
+      internalID: -1776009130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_134
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 228
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe703b8e717c2a244a0207fbfed2d329
+      internalID: -748681617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_135
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 228
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc1aa7c155003343ac8b6dc28dd3a2c
+      internalID: -1463548307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_136
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 228
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96c310df86dc843a046c8f5fb41256
+      internalID: 1990948150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_137
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 113
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65b9f27c53b2904f87a8a2a827406be
+      internalID: 451634379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_138
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 113
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad79da3495e1048ade56aec63282ed
+      internalID: 1625383765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee2623fb52cf14a8afc945b49a4370
+      internalID: -45961306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 144
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61f19fa5653673489d41282e3e7a981
+      internalID: -1757056807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_141
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 49
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aa4e85f24f6a84bb5c8e73ca02a4fd
+      internalID: -1283682675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_142
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 49
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843f2f67b97f75241b1486d713189b06
+      internalID: -176673953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_143
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 81
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adee6056ad019b34a82821e430c49449
+      internalID: 1615731513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_144
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb49fabad0ccdc439437089da012f02
+      internalID: 1280929735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_145
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 68
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f97d04ba937974998f9d39babaca57
+      internalID: 1605050219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-zerudez_146
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e11d77bc0ab058458a17ca15459bd79
+      internalID: 1052530426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tileset-zerudez_39: 797783660
+      tileset-zerudez_71: -1408836260
+      tileset-zerudez_69: 1935368822
+      tileset-zerudez_142: -176673953
+      tileset-zerudez_10: 55680887
+      tileset-zerudez_15: 1186606877
+      tileset-zerudez_67: -870301666
+      tileset-zerudez_79: 226205206
+      tileset-zerudez_86: -927880791
+      tileset-zerudez_62: -1252063530
+      tileset-zerudez_127: -1915587788
+      tileset-zerudez_1: 1065373514
+      tileset-zerudez_51: 1930413506
+      tileset-zerudez_20: -842362407
+      tileset-zerudez_7: -1566785652
+      tileset-zerudez_57: 1924806603
+      tileset-zerudez_58: -576990915
+      tileset-zerudez_31: -1300539893
+      tileset-zerudez_42: 1561748240
+      tileset-zerudez_72: -488713335
+      tileset-zerudez_50: -89222349
+      tileset-zerudez_13: 1281422704
+      tileset-zerudez_59: -866703394
+      tileset-zerudez_104: -1675456101
+      tileset-zerudez_105: 1477667367
+      tileset-zerudez_132: -83865836
+      tileset-zerudez_110: -1336300473
+      tileset-zerudez_11: -565672528
+      tileset-zerudez_113: -1668960329
+      tileset-zerudez_139: -45961306
+      tileset-zerudez_96: 661654013
+      tileset-zerudez_22: -1332559313
+      tileset-zerudez_30: 1854267600
+      tileset-zerudez_49: 572319480
+      tileset-zerudez_81: -170699292
+      tileset-zerudez_60: 755166694
+      tileset-zerudez_73: -1713099762
+      tileset-zerudez_70: -454564908
+      tileset-zerudez_75: -1858371325
+      tileset-zerudez_130: 1238872720
+      tileset-zerudez_33: -771977784
+      tileset-zerudez_45: 225852288
+      tileset-zerudez_25: 1078321767
+      tileset-zerudez_65: 2049955490
+      tileset-zerudez_83: -144287645
+      tileset-zerudez_27: 1569709095
+      tileset-zerudez_34: 1954144045
+      tileset-zerudez_123: 2093028463
+      tileset-zerudez_128: -1660538179
+      tileset-zerudez_121: 771863703
+      tileset-zerudez_40: 1396327147
+      tileset-zerudez_66: -1752256622
+      tileset-zerudez_94: 1595216557
+      tileset-zerudez_44: -562888575
+      tileset-zerudez_129: -1523629278
+      tileset-zerudez_12: 1645482670
+      tileset-zerudez_119: -1511795303
+      tileset-zerudez_23: -1116206943
+      tileset-zerudez_3: 1753158490
+      tileset-zerudez_137: 451634379
+      tileset-zerudez_35: 1479830630
+      tileset-zerudez_17: 1991600289
+      tileset-zerudez_131: 1101574726
+      tileset-zerudez_6: 1013467365
+      tileset-zerudez_26: -1216450811
+      tileset-zerudez_78: -555322880
+      tileset-zerudez_24: -388927627
+      tileset-zerudez_76: 1515527477
+      tileset-zerudez_126: 1813879084
+      tileset-zerudez_0: -836924652
+      tileset-zerudez_47: -125303743
+      tileset-zerudez_145: 1605050219
+      tileset-zerudez_41: 1691003136
+      tileset-zerudez_93: 398578820
+      tileset-zerudez_4: 689046157
+      tileset-zerudez_46: -1561791867
+      tileset-zerudez_116: 554609694
+      tileset-zerudez_120: 529090809
+      tileset-zerudez_98: 492156082
+      tileset-zerudez_21: 1138823916
+      tileset-zerudez_141: -1283682675
+      tileset-zerudez_2: 1554180308
+      tileset-zerudez_112: 215033816
+      tileset-zerudez_77: 1226322168
+      tileset-zerudez_114: -178303911
+      tileset-zerudez_55: -285855265
+      tileset-zerudez_138: 1625383765
+      tileset-zerudez_87: -252884684
+      tileset-zerudez_14: -761718938
+      tileset-zerudez_91: -1568067560
+      tileset-zerudez_106: 1971151846
+      tileset-zerudez_107: -1155386576
+      tileset-zerudez_135: -1463548307
+      tileset-zerudez_122: -988797515
+      tileset-zerudez_101: 634869013
+      tileset-zerudez_144: 1280929735
+      tileset-zerudez_88: 2005045072
+      tileset-zerudez_118: 889374035
+      tileset-zerudez_61: 630692083
+      tileset-zerudez_74: -504577764
+      tileset-zerudez_52: 1252243762
+      tileset-zerudez_36: 811628745
+      tileset-zerudez_125: -1682085669
+      tileset-zerudez_103: -1694450296
+      tileset-zerudez_64: -1339348783
+      tileset-zerudez_124: 1577283873
+      tileset-zerudez_140: -1757056807
+      tileset-zerudez_37: 2054565128
+      tileset-zerudez_133: -1776009130
+      tileset-zerudez_111: -361315103
+      tileset-zerudez_90: 235449336
+      tileset-zerudez_43: -2038976482
+      tileset-zerudez_136: 1990948150
+      tileset-zerudez_18: -870615524
+      tileset-zerudez_19: -1128036697
+      tileset-zerudez_38: -2000777569
+      tileset-zerudez_89: -378552405
+      tileset-zerudez_92: 1977375000
+      tileset-zerudez_80: 1791133497
+      tileset-zerudez_108: -445274472
+      tileset-zerudez_9: 2087683416
+      tileset-zerudez_99: -1647929036
+      tileset-zerudez_109: -207310925
+      tileset-zerudez_28: 285458320
+      tileset-zerudez_85: 1108314272
+      tileset-zerudez_134: -748681617
+      tileset-zerudez_48: -1391374750
+      tileset-zerudez_5: 1294027175
+      tileset-zerudez_100: -474478975
+      tileset-zerudez_102: 2012462557
+      tileset-zerudez_84: -195849256
+      tileset-zerudez_16: 2051491734
+      tileset-zerudez_146: 1052530426
+      tileset-zerudez_32: -2051071305
+      tileset-zerudez_143: 1615731513
+      tileset-zerudez_56: -1470476455
+      tileset-zerudez_8: -921634539
+      tileset-zerudez_54: -1505109767
+      tileset-zerudez_63: -1948733733
+      tileset-zerudez_82: 2048461056
+      tileset-zerudez_97: -1839936624
+      tileset-zerudez_95: -461388091
+      tileset-zerudez_117: -719551253
+      tileset-zerudez_53: 1316070525
+      tileset-zerudez_68: 750588821
+      tileset-zerudez_115: 1258555958
+      tileset-zerudez_29: -1558670118
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

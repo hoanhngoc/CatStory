@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Food
+  - Enemy
+  - trap
+  - Teleporter
+  - AttackArea
+  - Rat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - enemy
+  - SettingMENU
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Towe
+    uniqueID: 640026365
+    locked: 0
+  - name: Ground
+    uniqueID: 2354925613
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WALL
+    uniqueID: 4123877295
+    locked: 0
+  - name: WallHang
+    uniqueID: 443028043
+    locked: 0
+  - name: Object
+    uniqueID: 2057569739
+    locked: 0
+  - name: Tree
+    uniqueID: 2023537323
+    locked: 0
+  - name: Player
+    uniqueID: 1624447179
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 323106981
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 3264213431
+    locked: 0

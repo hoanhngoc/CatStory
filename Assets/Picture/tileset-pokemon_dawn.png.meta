@@ -1,0 +1,7590 @@
+fileFormatVersion: 2
+guid: c8bc3edbf592c504d95f8b927918f4e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2488
+        width: 192
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f130f3000c3f344929b542890b0701
+      internalID: -1136234971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2470
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -17.5}
+        - {x: -10, y: -11.5}
+        - {x: 10, y: -11.5}
+        - {x: 8, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fa8704bda82ea41a07a3281756dffe
+      internalID: 1794287927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2470
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -16.5}
+        - {x: -12, y: -11.5}
+        - {x: 11, y: -11.5}
+        - {x: 7, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac23bb3a485f9c543b41e3f72c2c9fdd
+      internalID: 249267419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2470
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471dbfb35d2a03341b87c7200e564117
+      internalID: -833021124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2470
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -16.5}
+        - {x: -10, y: -9.5}
+        - {x: 10, y: -9.5}
+        - {x: 10, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65136ca093516944bb7ffd43b7d12a56
+      internalID: 100762747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2470
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -22.5}
+        - {x: -17, y: -12.5}
+        - {x: 16, y: -12.5}
+        - {x: 9, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a891cfe91ced634b93b37929e8dc294
+      internalID: -2138857531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2470
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d37fe8ebad335468a30e16e33e571c
+      internalID: -220237085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2486
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41cc2a62f068c540a71110b79a148e0
+      internalID: -1421340909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2486
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13.5, y: -16.5}
+        - {x: -12.5, y: -8.5}
+        - {x: 12.5, y: -8.5}
+        - {x: 14.5, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d887bfc17bb5f9648a73769b5889b139
+      internalID: 728806355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2486
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -15.5}
+        - {x: -15, y: -8.5}
+        - {x: 14, y: -8.5}
+        - {x: 14, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736c8885f0438e34c9c02e83188975f2
+      internalID: -146651319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2486
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3600987bd3ecb4d873e43b9f4b2b62
+      internalID: -921718632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2486
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe75604bf4b7b44aa857b6fad21558
+      internalID: -2037018943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_12
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2487
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: -10.5}
+        - {x: -11.5, y: -2.5}
+        - {x: 12.5, y: -3.5}
+        - {x: 7.5, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb778bab554ace345be20a1090d2965e
+      internalID: 1008459170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_13
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2487
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f378655034994c9468d0a071296d987c
+      internalID: -392248148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2486
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5c23b9ad17f94d902df6f6deac6d4
+      internalID: -678066518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_15
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2486
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2606a745b55d954e95442d189dbe664
+      internalID: -94620707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_16
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2470
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f52c5dc70aaf4482cc3344efb845f
+      internalID: 524056789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2470
+        width: 156
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6888102760c0a364f8d08b9dc1a0009a
+      internalID: 1451282663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_18
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2406
+        width: 66
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53751, y: 0.48051637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -23, y: -36}
+        - {x: -18, y: -18}
+        - {x: 16, y: -18}
+        - {x: 19, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8f10a31c5f6f94fbe4aa6e043fc2f3
+      internalID: -1913534840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_19
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2391
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d941a96c22ef4c4bad6138667161eaa
+      internalID: 73005756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_20
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 2423
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c291a9023e89ac445ba2d558856aa29a
+      internalID: -1414878090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1542
+        width: 63
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 104, z: 63, w: 459}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a4726b569e2d4096a0992e84cb419
+      internalID: -2140252128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_22
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2374
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b915dc9e7959e09428f9d28d0d4a0c64
+      internalID: -1886101390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_23
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2374
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593181cc0263e640ab1fa15c2ad0f01
+      internalID: 1053876548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_24
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 2374
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2063eaee5909247499ee7a1789e6c47b
+      internalID: 1365532938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_25
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2374
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837d5bc4f436ea4f873fc659d33e9dc
+      internalID: -547298082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_26
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 2360
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da98959f47793044b2fccfce2fd78f0
+      internalID: 1457890344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_27
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2374
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0135c41c03c97c4e9eae337d16b69be
+      internalID: 459394532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_28
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2347
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547ef403a1ae1ff44b0cacbd9805cab8
+      internalID: 1575646822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_29
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 2346
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264bfb4e33a41840bc4d3e017538fbb
+      internalID: 1371067983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_30
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2328
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380783b52d30be541b7b0d3b9b103584
+      internalID: 1047475961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_31
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2342
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bee17b5f776dec48942a50cc656b4ad
+      internalID: -477703829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_32
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2342
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3547fce925cf88c418a8dda6d1dcfe8f
+      internalID: 1498748989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_33
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 2362
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4338fee4f10fff4aa2a2b808f2f87c0
+      internalID: -526818775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_34
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2358
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54d24caaa98a9f4fa184783a44bdd86
+      internalID: -1870500415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_35
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2358
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dbc6722f81f11428998b70f411db6c
+      internalID: -1431281342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_36
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 2359
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0523ad82fe6d2469527e83f2fd8674
+      internalID: -180552275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_37
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2346
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41847e7b75f443c4e8e3ca15d710bdb4
+      internalID: 53327640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_38
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2343
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a03b16afe82bf4d9656f005967d0f4
+      internalID: 189251270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_39
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 2346
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a53566b646b434facebb0a5f28e690
+      internalID: 531136015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_40
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2326
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc2a9d1536da4f48a4003e68a43eb5a
+      internalID: 1441772068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_41
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 2319
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9472230d62d78841bcfcd078a793484
+      internalID: -671532989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_42
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2307
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d08eb71bdd629489a36a82b7f4d47c
+      internalID: 1871523933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_43
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2296
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8074d876be892a469f862e69d93c64b
+      internalID: -1902412333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_44
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2296
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163b0e38bc1ca87489a79151e9213a24
+      internalID: 1320864480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_45
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2310
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb154548a459fc49a7f3056dd68718c
+      internalID: -705625473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_46
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2311
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d114832466d77814da10b55801290f12
+      internalID: 2009341238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_47
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 2262
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871c08d3602a734897a1c0093b05e6c
+      internalID: -1417244627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_48
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2262
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ecf2847e8f9a4ea85adfd5997f58c
+      internalID: -1343542154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_49
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2279
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60327e019b1509a4eb9e09049a261fcc
+      internalID: -1833608424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2262
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c701c2af2226d64bbe0a4cb2f31028e
+      internalID: 635528210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_51
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 2295
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a5a8e4756479045b5e07f3bb1d0a0d
+      internalID: -321923198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_52
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2296
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa02d1be9c837c46ad601233d7d7b7f
+      internalID: 988893344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_53
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2294
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b68ec7a3a8bee24dabd4c4988f10466
+      internalID: 465470966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_54
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2269
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e367e05590c3f184bb520b3a7b216174
+      internalID: 1448890831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_55
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2271
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e986cb80b02a55499785704a20db22f
+      internalID: 2049590130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_56
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 2282
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e89f58e9dfc50a44b7efbddabca7ad7
+      internalID: 266567407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_57
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2282
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019eaff748bdd9d4bb5a3a25b131ba18
+      internalID: -1438236824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_58
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2262
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbff648772181745a2779f951669673
+      internalID: 417286098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_59
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2266
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7fc7fd19edce641b4978a90f6e5b4f
+      internalID: 1346798821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_60
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 2271
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f848a7f3724694c968f3c889ffc563
+      internalID: 1142694186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_61
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2271
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe85e18f419000a479d7216c66f45bba
+      internalID: 1583656650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_62
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2203
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -19}
+        - {x: -3, y: -15}
+        - {x: 2, y: -15}
+        - {x: 2, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f44f93a021ab544b2466976e1d9b01
+      internalID: 276117863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_63
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2203
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.5, y: -20}
+        - {x: -2.5, y: -14}
+        - {x: 3.5, y: -14}
+        - {x: 3.5, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd870540409f8c748b48c674c473a86a
+      internalID: -141714569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_64
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2203
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.5, y: -20}
+        - {x: -2.5, y: -14}
+        - {x: 2.5, y: -14}
+        - {x: 2.5, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0b000b6e31c9d40bf910a95b29e1c3
+      internalID: -1600861492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_65
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2203
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.5, y: -21}
+        - {x: -2.5, y: -15}
+        - {x: 3.5, y: -15}
+        - {x: 3.5, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9633fa5256b2e45bdfd19492318a39
+      internalID: 1880489198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_66
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2203
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.5, y: -18}
+        - {x: -3.5, y: -13}
+        - {x: 2.5, y: -13}
+        - {x: 2.5, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba17ab6ac7488045b3709fe30d35b2d
+      internalID: 241966616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_67
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2203
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -18}
+        - {x: -3, y: -13}
+        - {x: 4, y: -13}
+        - {x: 4, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad955e6fa713cb408568d8bc10bb984
+      internalID: -935607529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_68
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2feff6dbd050f84d8e0f2618361f7d2
+      internalID: -167332631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_69
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2199
+        width: 193
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b6648bf7f517840b92b3bb63918662
+      internalID: -220758001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_70
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2166
+        width: 83
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259e5c4e7dfb13141859a8c963e34de8
+      internalID: -630196530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_71
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2136
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d254f80d7735b140b1dc86d8a371c66
+      internalID: -1361854878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_72
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2134
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0774e2bf5f7a1974cacf076217596102
+      internalID: 1070351160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_73
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2166
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c10a7b4b3ff324c893a8a5966caceb
+      internalID: 877198264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_74
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2166
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee6abc1b219dc0408c92f82f56b2c02
+      internalID: 1156247058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_75
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2134
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28303cd5ca2bb2f4482f7d3aa7a3a696
+      internalID: -762898808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_76
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2166
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fdf5fe6c4f9274584fa2cd16913da9
+      internalID: 1137091319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_77
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 2175
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea0e47d765cd3848a196cc8047a1518
+      internalID: -285867796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_78
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2175
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0664f4cb644db774fbae3828a24576ee
+      internalID: 1601765687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_79
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2102
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d636512ef25285648be2d240524aa6a5
+      internalID: -174128517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_80
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 2102
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5d0dcd9b9a33a418def5c2f8bc1335
+      internalID: -2131409227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_81
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 2087
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dd59982fa9d714c95b201b2d9d2dd0
+      internalID: 927080379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_82
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2087
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a4ac57e2a29a4ba95e80691413506
+      internalID: -2047320174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_83
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2118
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499bd75e82dac544eae937bb204eadca
+      internalID: -2026709272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_84
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2119
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f83420a58617d41ac60e4a18db47fd
+      internalID: 1085784295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_85
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2052
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7648f07d69a1dd249b79722d1842b623
+      internalID: -98430415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_86
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 2054
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c5fccf2b1db92489a70a0e714fe474
+      internalID: -1554867666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_87
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2086
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318fc77c705ed34dbb7a2c6e0c51200
+      internalID: -27548837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_88
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2047
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66e1c4950fd573488e89fb108f23d0a
+      internalID: 837495940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_89
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2054
+        width: 128
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c6ba8e76c00544e81ba3ecb0c5d0a5
+      internalID: 295250474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_90
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1990
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba0ca4c56970a44baef1b79db9c221
+      internalID: 984280934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_91
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2059
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ed55272dd8aff48bfd6a41386185cd
+      internalID: 848177898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_92
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1998
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 3, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb52dd7cf0682e47a866be01877e9f7
+      internalID: -1122163370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_93
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 2010
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729cb1f1c279eb0438f498ee645c1288
+      internalID: -641129202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_94
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2013
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55ddaea94d57b64c861e45a2b26eb7d
+      internalID: 72382917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_95
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2012
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0662c2242f82b45af5eab4a6a8013d
+      internalID: -2101444786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_96
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2011
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc80165b8feae3d4eb6baa0c43a62096
+      internalID: -1616297258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_97
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2006
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b6df236b3e2964389c93b341918f8d
+      internalID: -1089305068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_98
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1966
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67211b59a824a3479b40631f79203df
+      internalID: 1687006635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_99
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1958
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d915e96847049642989ede996f08df7
+      internalID: -1593684897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_100
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1958
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5ea772f4d69cb408775d610de2662a
+      internalID: -79911553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_101
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1958
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2942d87cc4db12b47b6ed80b83230020
+      internalID: 12312381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_102
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1926
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fb1c164459ad74f9f343b9e4a63b54
+      internalID: -1641031502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_103
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1911
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7891c04dfe9a2e247b684381e72396c4
+      internalID: -920875639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_104
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1895
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbf8dd1ad401874d9d9c09a581d97c5
+      internalID: 297878955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_105
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1894
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3458b3c06d7d44185d4d3c3ee0cf3c
+      internalID: -2111077468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_106
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1895
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0006aedb9e87654584b362813444b98
+      internalID: 1923349105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_107
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1878
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a810d2dd7b82c4f961d0ac6918620f
+      internalID: -1749356434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_108
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1846
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec1d88795377c84aaa0866905e50c6f
+      internalID: -518287419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_109
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1846
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b49f7e4e7cd384094027257b3dd082
+      internalID: 1970266404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_110
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1846
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632ad39c7c4d8a449af23f7e6e73fc11
+      internalID: -1310948742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_111
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1846
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e7388ef898c5478cff7b28525a743
+      internalID: 1798644431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_112
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1834
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1539c3e892b582344af8aa83f429d7da
+      internalID: 89695695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_113
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1798
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0ae5f517cfe9f4c837d56ef03ad502
+      internalID: -634917285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_114
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1824
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2446dbb992993b8479a7523814a04b64
+      internalID: -670983551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_115
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1670
+        width: 193
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31bf2c368a2ceb4bb4f4673ffa64594
+      internalID: -1680712963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_116
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1798
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e9ae843130fdd45b7225d8b3f9b16e
+      internalID: -505988914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_117
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1758
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7793e3824c7a01408ace7be2ddb1e4c
+      internalID: 1162163362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_118
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1750
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb29e525ac8c554fa60c98a0e42d40b
+      internalID: -1699132577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_119
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1753
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f595c4aa90b108d4ab0b31c7d22184d3
+      internalID: 1529694757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_120
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1767
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78567f281030b34d9c69c7ed5e2214d
+      internalID: 1599833203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_121
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1766
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676386cdbe3a44449ad99c6c0bdb30c6
+      internalID: -331495064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_122
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1767
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df4b543ced38a4d89713c26884a95e
+      internalID: 1230076385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_123
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1751
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6405c0b4c0820849bbb2c7257a8a650
+      internalID: -990073570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_124
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1734
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e61c5288d09654fb09c5a38e450d59
+      internalID: -1941921817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_125
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1660
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7787d52997c452d4ebf49111e32380b2
+      internalID: -1352301478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_126
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1736
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6ce3230685aa94fae692d379fde1d5
+      internalID: -1969649963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_127
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1662
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c41726282440f245aa21743efabde0f
+      internalID: -1520449103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_128
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1702
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475f7548a5fffb742b73714471b43e40
+      internalID: -1485921773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_129
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1702
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead88bf60ed0f67459931caf5b460a3e
+      internalID: 1900631322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_130
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1721
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32ff47155ddeff4d80dd7883c25318f
+      internalID: 1625428612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_131
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1721
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe9d481a840e934d99f7dc4aa02c128
+      internalID: 131697159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_132
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1706
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b66c44375a575d41a7b1f156a2e79d8
+      internalID: -114120567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_133
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1706
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194a78594ad64d44a84cab3f11adaf9f
+      internalID: 1757587186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_134
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1654
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948973aa44e7d354cab58af607095965
+      internalID: -565396051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_135
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1670
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7a4528dbcf84542bdf5a8642433bf5
+      internalID: 1700776480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_136
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1574
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60656346fc3f0824284fc459b8d889f0
+      internalID: -114051000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_137
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1494
+        width: 130
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2706c0dcd1d8bb4eb772bbc4e5bca96
+      internalID: -1738541619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_138
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1647
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2e247db82ed364daca85f99a8d51be
+      internalID: 2121869446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_139
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1477
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b72798dde1c6924795f417ae832a714
+      internalID: -1483150339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_140
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1633
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31ba3659f2f45d4ca335a1446a59096
+      internalID: 1708097699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_141
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1608
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ce8fc4cd24d2f40ab8f62683fb3850
+      internalID: 1790969275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_142
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1592
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76882db85f993394bb405f4fbe85bf93
+      internalID: 458912130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_143
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1496
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f17e4da219d35b4193af8715efa73d8
+      internalID: 587554295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_144
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1464
+        width: 346
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8fce21d40847746be306ffbdd21707
+      internalID: 1369950441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_145
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1448
+        width: 145
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411159d1b4dbecf47b3b607c5e4015d8
+      internalID: -30986175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_146
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1510
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40569b7a589a5e478d82489dc42e5f5
+      internalID: -1666996579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1398
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cda37911c6f6943b58ea1842763ab2
+      internalID: -1386102015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_148
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1239
+        width: 322
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a886fd9e4517e574c89f5255ce5b5bcb
+      internalID: 894523206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_149
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1423
+        width: 515
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e53a4b2a73f50c49897967ee9695d8b
+      internalID: 107767565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_150
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1430
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424ee0df45248cc4e91fb312372ddc03
+      internalID: 821928693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_151
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1430
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161764f6594deaa49acc0151269f0568
+      internalID: -1557033057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_152
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1437
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be996b02d4a715640b1ae2c12f307eca
+      internalID: -167097744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_153
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1454
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fb69dbf86de674b99d92603fd34adc
+      internalID: 1948970876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_154
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1430
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981bd58c6df7d5c41b046335ad3d69ee
+      internalID: -1299877084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_155
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1430
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea6b01dd655f87419f749ab9c834307
+      internalID: -1877126904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_156
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1430
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88195edba4027c842894864dde18c763
+      internalID: 397912501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_157
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1430
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee7c04286b4def43b4ad1dbe74c772d
+      internalID: -901043453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_158
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1434
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b431c6a9793941821dcc7e76db32e
+      internalID: 74942131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_159
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1434
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e46cb5d0fc0c49a233956095f4aef
+      internalID: -433496959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_160
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1417
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6641ac519a46d8468837f0e4fefc41b
+      internalID: -1850975256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_161
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1432
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5ece645bfc3ba438ca131fb2f39286
+      internalID: -476491282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_162
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1406
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ecce0688c4cf74096d9fc472d609a7
+      internalID: 1438655689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_163
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1421
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24db368ae4ee764f88a94a64d7746e9
+      internalID: 618436348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_164
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1421
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53a00b878817c3468c085b970d3d07d
+      internalID: 153141576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_165
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1412
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbe47fc01c50414fbd5d61395808939
+      internalID: -984584816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_166
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1412
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360fef84cec8c5e4a92a18acdcb45b0d
+      internalID: -1905548612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_167
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1382
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa11b6bb3d35a914eb23a4c95fafe44e
+      internalID: -224982574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_168
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1382
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdffbdf1756d854e8a4a3af90c6a02f
+      internalID: -1038140277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_169
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1382
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99c2990efa4b5c4ca0c701bd0e67cc4
+      internalID: 1580763741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_170
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1367
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651b9d1ffe89b73458468c777f94692d
+      internalID: -730314385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_171
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1400
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e7355ffe1b23546b7b65d37ebebab8
+      internalID: -1078307409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_172
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1400
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb1bc38dfc37540b4467bbd80bac61
+      internalID: -1797178276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_173
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1398
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a4096e7bfe2714d895af8cfdf3b184
+      internalID: -1353188407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_174
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1247
+        width: 123
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e317748252c27e41bc66dc59f403812
+      internalID: 1774623878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1335
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8102c992118e4ce4a93f2f73de5f81a4
+      internalID: -1443716178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_176
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1367
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8648e95011d8f094693148ede07b2c68
+      internalID: -1315538951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_177
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1367
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c299efba42160d46b7ecd9f8a23f16e
+      internalID: 1541494407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_178
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1368
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdab50cae3949940b4930030f64eb65
+      internalID: -1560898607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_179
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1382
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d266b03ef581ff499746de045a33f20
+      internalID: -383384297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_180
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1382
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd5ddf5da1fd8c4c834effb8e2af14a
+      internalID: -47909745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_181
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1367
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ef7bb6db4eabd43bf411facf9f9375
+      internalID: 2001359383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_182
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1367
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a562f38772ec154fa1f7a3786b495af
+      internalID: 402368917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_183
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1335
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f078bb039f1724cbe9c492f3d02dfd
+      internalID: 430631521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_184
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1351
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff950c494b601cf4cbefe3050bad0643
+      internalID: 1979032267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_185
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1351
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28964e761f5fe5d49a73cb428009c89b
+      internalID: -652958842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_186
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1335
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7e6462e8968f46a6215cd1c770de5
+      internalID: 1721698070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_187
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1303
+        width: 114
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26e90da2186c204095e78c4167d6919
+      internalID: 205444386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_188
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1368
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a187ed3cdf251c84a8bcd7e3e2687cbf
+      internalID: 328562043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_189
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1367
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c73c3f0aa862347b00f4a68b48dc96
+      internalID: -746353489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_190
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73e30b1694e26b45b3f1c5f4abba36b
+      internalID: 682786976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_191
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1335
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a5b90b9f378244685ed23792cefb4e
+      internalID: 1649978171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_192
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1335
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a477cfbb374334680e1a68438836e7
+      internalID: -1534348424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_193
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1320
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a1de1ee044ecd46928c50213602c44
+      internalID: -1302608779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_194
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1320
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a88ad32b13aa94787629239800c291
+      internalID: -838282714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_195
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1341
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4f59078ac143449994e1f2c9df9b9b
+      internalID: -315598576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_196
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1319
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0f1055d52e1d846898f7d00976f4c3
+      internalID: 424982683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_197
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1319
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b90742636773264aab58ab273698d17
+      internalID: -1380854938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_198
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1319
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fc7b30e4ad3e14e9537f40e36a1a82
+      internalID: 68060042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_199
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1335
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aed5915779f4fd4d859a1fcb526e933
+      internalID: 459683517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_200
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1305
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9739f36e42c66d049ac5e0b89cfa1a55
+      internalID: -1037465699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_201
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1303
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cec56de561780b4aad6c9c37759ad75
+      internalID: -754851278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_202
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1319
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7d4fbbd3927a64d8b3fbf92c196a9c
+      internalID: -1829527554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_203
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1319
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b324f14193ba4e92647d4d36f7c95
+      internalID: -1248307376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_204
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1296
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e636b8d6b26f794d9f7dbf9f6e080bb
+      internalID: 372828706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_205
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1287
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e7ab42e35fe0548b750311bcc2bd77
+      internalID: 1999781005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_206
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1303
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d7a06e6f71152429ec71e8f6d1e4dc
+      internalID: -1367536772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_207
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1259
+        width: 14
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4fbaf4c6187e14f8b439ad255ffae4
+      internalID: 548101077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_208
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1304
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea29ad895c03f4f9c8bb4795594aef
+      internalID: -430244580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_209
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1255
+        width: 10
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb93eef719c0ff44aa5fd860063cb09
+      internalID: 1724090390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_210
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1287
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7554d70d340da7479e88d61c636f180
+      internalID: -1516395135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_211
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1291
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103ed8828875a1a4d80c1cc3993b7124
+      internalID: 564786245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_212
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1271
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb6a4ded4cacca4c8899119c8e82d89
+      internalID: 1079457929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_213
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1271
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed41e92bbcef3a46a071ff10b358cd6
+      internalID: -1175374217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_214
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1229
+        width: 111
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d11d11f806e4d64687c74668fce91ef
+      internalID: -736671884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_215
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1271
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e99380ed8524fc41bd29ea482a7a1ea
+      internalID: -1130661286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_216
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1207
+        width: 129
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1644958a90fe5e64c9244eea058a84dc
+      internalID: -1210117960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_217
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1207
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd83a16a906444ebf9ed075914ba88
+      internalID: 1539012495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_218
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1242
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c4c9c6b7ac96142aaa32e58d3d9695
+      internalID: -1508303701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_219
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1159
+        width: 193
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5e6cd282b9c154b899d82ad89cb451
+      internalID: 1449812912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_220
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1159
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196eaabf7cd326b4aa192c85d75f4416
+      internalID: 1097343973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_221
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1159
+        width: 258
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2348390455357de4499ba3fd3650b8a1
+      internalID: 1153983864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_222
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1175
+        width: 177
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a767d492792e5b34a9f031ddb1075585
+      internalID: -2055094876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_223
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1223
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a63a602129e44f8fec48447f830b8
+      internalID: -1425011600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_224
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1207
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6bc811ec9fdc14882a6034467144b7
+      internalID: 339418894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_225
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1127
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf8ce439b81b04b96ffd37548c9d22
+      internalID: -904250883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_226
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1175
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a7da24c1bdbc4a81146f8b90a686c
+      internalID: -503849660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_227
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1175
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b3d0a515e63aa45843629720c0a9e3
+      internalID: 1095624406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1047
+        width: 337
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee25c9674b4971409ad291cd3f93c2e
+      internalID: -136877056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_229
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1047
+        width: 97
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170596f3324831b4d9fa9d10f4cae688
+      internalID: -451809392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_230
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1063
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334c89453cc7c1847b755bc241788aab
+      internalID: -473241277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_231
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1047
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a37750802e70c84b92c4e66d192b4ae
+      internalID: 768265710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_232
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 998
+        width: 55
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e80d1dcf4c2346ad91b10d34d6ce4
+      internalID: -1759555990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_233
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1041
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e5a85e71bd794392e5f1c644ad87a
+      internalID: 1449733116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_234
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1063
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1466e6b69466c4291eedaf0611981b
+      internalID: 573139751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_235
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 934
+        width: 193
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f62df0bf6502824dbfaf87f19eb3253
+      internalID: 728883335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_236
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 875
+        width: 86
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1961337a11407ad4fb835f15acc71397
+      internalID: 1064387277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_237
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 967
+        width: 137
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e5c40c894012841b284f4cfef38e41
+      internalID: -138689120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 497
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96664285dddd9cb4bacae5b035903ab4
+      internalID: -1846248908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_239
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 950
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd630f926c9e0ca4a909511ccacb8f9a
+      internalID: -929630343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_240
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 934
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc386775f624c3e4ebc6761a48ce125a
+      internalID: -1693826942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_241
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 982
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a15306fc5255874aa8b7d98791434f8
+      internalID: 1739945226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_242
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 934
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad25fef6cd6fbf41b8b8e62a5ae61c4
+      internalID: -924590444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_243
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 934
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406efe51f32653a4db4648e1acc0ea30
+      internalID: -2099531840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_244
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 743
+        width: 290
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97498f6eb8b604c4981e753b93b21ff2
+      internalID: -1470230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_245
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 886
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e8e9663bfffd4d8a60dcbfcffad7d
+      internalID: -498863892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_246
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 747
+        width: 105
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27777b44a151d724aaafb6e3614b7ff7
+      internalID: -1944983580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_247
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 790
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1df12be65971b458e33b9720af664e
+      internalID: 2085235983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_248
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 790
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605df737798f3dc498f36287dfd4bea6
+      internalID: -1235775903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 791
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca079da030cb6d34d8b9f94e72c6e31e
+      internalID: -492125311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_250
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 790
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877225005ed602645991ec2e789829cd
+      internalID: 2139457755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_251
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 752
+        width: 193
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09edf15593b9a4c4b9a9bca516c07138
+      internalID: 580595351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_252
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 603
+        width: 189
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4983cdfaaf89d8499c3ef2ac162a607
+      internalID: 218542849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_253
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee5dec3fa804f14e84bc0b80bad98a0
+      internalID: 978322266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_254
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 695
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78a14e89b973c49be7965b8e2e7e01
+      internalID: 509357465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_255
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 695
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e09b10599bc864287884ff32fb706f
+      internalID: -2041056747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_256
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 695
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde1dc78a2ea5314c8a98aff72e8f832
+      internalID: -1376432706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_257
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 695
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445a10b67da28484fb2cce1a404da22f
+      internalID: 868979740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_258
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 695
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc738d501aa14548880bfc8b195f41c
+      internalID: 1132172844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_259
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 550
+        width: 124
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed3a94cfe41fb4db2aded84929609b
+      internalID: -1580503008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_260
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 534
+        width: 86
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6238c778fcdcd94cba411a94cfa52ca
+      internalID: -1275230589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_261
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 598
+        width: 130
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcb7f1012232014e83fc970fc8c6086
+      internalID: -2064645566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_262
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 598
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bc2b4a8dd0e8545a52711513c81e1d
+      internalID: -1427290089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_263
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 598
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c703f38a12a395f41b15ecc51aed26e8
+      internalID: 1969066489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_264
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 598
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bdc050b98ef4742a3c77f8388c4c47
+      internalID: 835923148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_265
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 598
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99876cbf792f0ce44a5c0f0cd6bca2f3
+      internalID: 1359146459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_266
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 598
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1377eea6c197eb8438376a7e0fb1e62c
+      internalID: 1124408678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_267
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 598
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30eb4ec5a1059c458484f35f3853727
+      internalID: -1642420881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_268
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 598
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8689d0db36027a54d913b0b50e525b4c
+      internalID: 2088177258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_269
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 540
+        width: 161
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d1ca16a1602404281c1d74ff119a06
+      internalID: 27653933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294d71923833b84e9efdd4ea912584f
+      internalID: 1126723489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_271
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 502
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4aec38276de724e8652e893e0545ab
+      internalID: -907482056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_272
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 519
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02313081772ef134fad8ee9ae67003a0
+      internalID: -1793864038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_273
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 519
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5174e77242aa717499452226dfd18d1e
+      internalID: 42202869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_274
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 502
+        width: 195
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c886d59d00ffc4782e0aacf048734d
+      internalID: 989224416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_275
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 524
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a09b2a0f0068944bed128891b7cf9f
+      internalID: -1306491180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_276
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 524
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8f6013d3e1fe3418a035385863ea9f
+      internalID: -1243276544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_277
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 524
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d9155ad838d0d4aacb4a4dd251513c
+      internalID: -1415589323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_278
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 524
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccba491c26c28e4488b5fdc7978c3833
+      internalID: 177890735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_279
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 524
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf1cadcc4a53624f87cd8ef03578a1b
+      internalID: -820763355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7084898e71ce3e4b835525a4b19ebd3
+      internalID: -1754047740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_281
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 422
+        width: 128
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8908038438c6b1149b7f9a893eb9d549
+      internalID: -1004594195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_282
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 422
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429bebe5c75f0e942b6b7f5b593048d3
+      internalID: -520421529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_283
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 422
+        width: 126
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98016d6caddb2994ba074442db61c882
+      internalID: -1432904555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_284
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 422
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec857326d68aec458c633fbd23d9faf
+      internalID: 1543641416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_285
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 401
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389f5c8fa88ff68478a94fdc87b4f049
+      internalID: -29090290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_286
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 445
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea48c272d78267c4f9e346c34aad42ec
+      internalID: 1356737108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_287
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1671
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc02db065e653c47b19242139363f0f
+      internalID: -1133403094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_288
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2024
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234f146e2ad423449bd1b8a70c2efb5
+      internalID: -2098770416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_289
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1992
+        width: 5
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d81f2f83c0aed4a8f9ec63774938d2
+      internalID: -531767107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_290
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1992
+        width: 5
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75daaec4130c08a4a9132959346f416c
+      internalID: 706728107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_291
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1910
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4467ea42be8664081c7f032ee98b26
+      internalID: -2069180994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_292
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2326
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21.5, y: -39.5}
+        - {x: -21.5, y: -15.5}
+        - {x: 21.5, y: -15.5}
+        - {x: 21.5, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81949053a830e504b8d149a0b9e4a873
+      internalID: -2003062122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_293
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2245
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d7af9eb9675549997f36e97413d8b
+      internalID: 2052308359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_294
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2119
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b618c751da9d3cb42901224ce188f51d
+      internalID: 1809628982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_295
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2136
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0ac1e15df4e7e45afab39cd913f343
+      internalID: 2113421915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_296
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 2135
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ceb7bbbddad4e4783ee3af0f21f75d
+      internalID: 1307184715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_297
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 2135
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce52ffa3128a14a98bf9bea9cd04a4
+      internalID: 88874392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_298
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1863
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5affad58c4a19d429cafd647a061963
+      internalID: -1393218393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_299
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1863
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d2eab459ac66e4886fec8335f76ac8
+      internalID: -755453913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2471
+        width: 191
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a857c93b83fcf8047b92b6d149b72007
+      internalID: 1571735701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_301
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2439
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f34ba2815f82d4d96e5cad37bcd9dc
+      internalID: 272135850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_302
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2439
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af26076cc017d44bb7140ef44dc056
+      internalID: 1192786057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_303
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2439
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b3234fcc3d9a647a9b5ff6903f2964
+      internalID: 1170413204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_304
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2439
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4f001776774604283e540255a8ff6a
+      internalID: -1353652004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_305
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2438
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9f43b2fdb53a241ad5193d53fba32a
+      internalID: 588280329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_306
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2438
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5933e3ed829314891782e3783a5e8a
+      internalID: 150840025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_307
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2439
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40ea4e0e5d4be41956d78bfb2444aa
+      internalID: 2048792036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_308
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2439
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea9d978cc326945a587f19df4f02f7
+      internalID: -1922955542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_309
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2380
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e15d8730ab4a044af193286e5b5bb2
+      internalID: 1829913102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_310
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1366
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c46656885c62448dd7e445704262d
+      internalID: -931339593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_311
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1671
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add01c1c338e95b44b0ee0009498b2b6
+      internalID: 1785243148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_312
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2088
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf749c121b55b745a178812755019bf
+      internalID: -1090553727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_313
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2024
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1960a444c68c84ab2af6470af0201e
+      internalID: 1946615307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_314
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2167
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2647b8f17366449aa64a05e361431
+      internalID: -474051159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_315
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2358
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -11}
+        - {x: -15, y: 3}
+        - {x: 15, y: 2}
+        - {x: 15, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb9f25a784d0ef4da7b9b9deea55d6f
+      internalID: 1355814751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_316
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2263
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd34465701744f49bdc6f012326956d
+      internalID: 331555521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_317
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2264
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011f1b9833b11ca43a762de043d66010
+      internalID: -1571678624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_318
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1687
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558348f3cdb707d43b463c3d004727f0
+      internalID: 992479954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_319
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1720
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11b957ce6b17644b34e78afac904c3
+      internalID: -83733856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_320
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 2384
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 29}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635fec7fa1be9854680a219ae7f1eb20
+      internalID: -2124706348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_321
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2455
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a3c796a776c1e45a15276b160bafab
+      internalID: -1555203955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_322
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2420
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c019f6e036f34a9f83b68f41cf8b5
+      internalID: -438612008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_323
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2395
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f88e489142cf40917e52a5a1e2ac3
+      internalID: 821736348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_324
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2440
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27313452cbf86d440b4ee5a677e905d0
+      internalID: -182709119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_325
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2440
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad351f78e69c32d498432e6132c6c09f
+      internalID: -1812973150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_326
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2471
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578cdb45a2ab304d8ede8e494757cc9
+      internalID: -1649138007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_327
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2488
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710c48b3eec3b0441b582ae85cc7c425
+      internalID: 1018786613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_328
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2456
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814c0bb9f8dd45949868c93506d33e57
+      internalID: 1856693818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_329
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2440
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb653f6c8a7460a43bc97e21c8c0087c
+      internalID: 831155956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_330
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2408
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde0fa9d980e0c428a38bc22e2c1f2a
+      internalID: 1778578201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_331
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2424
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bcbe5a1b0d7eb41b4d851ecb225b34
+      internalID: -8412016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_332
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2215
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5dc7cada112f2459e2d6315b4344ba
+      internalID: -1315826276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_333
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1478
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba78047db22604d9e7f268911bd759
+      internalID: 1613924067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_334
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1510
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e1644921cc9647a2bf4a15122aef1
+      internalID: -1585843310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pokemon_dawn_335
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1620
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e1c297fe278d347844273ebb12a45b
+      internalID: 1303131826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tileset-pokemon_dawn_144: 1369950441
+      tileset-pokemon_dawn_93: -641129202
+      tileset-pokemon_dawn_274: 989224416
+      tileset-pokemon_dawn_303: 1170413204
+      tileset-pokemon_dawn_25: -547298082
+      tileset-pokemon_dawn_141: 1790969275
+      tileset-pokemon_dawn_147: -1386102015
+      tileset-pokemon_dawn_173: -1353188407
+      tileset-pokemon_dawn_17: 1451282663
+      tileset-pokemon_dawn_238: -1846248908
+      tileset-pokemon_dawn_14: -678066518
+      tileset-pokemon_dawn_208: -430244580
+      tileset-pokemon_dawn_98: 1687006635
+      tileset-pokemon_dawn_99: -1593684897
+      tileset-pokemon_dawn_128: -1485921773
+      tileset-pokemon_dawn_120: 1599833203
+      tileset-pokemon_dawn_59: 1346798821
+      tileset-pokemon_dawn_266: 1124408678
+      tileset-pokemon_dawn_70: -630196530
+      tileset-pokemon_dawn_228: -136877056
+      tileset-pokemon_dawn_236: 1064387277
+      tileset-pokemon_dawn_200: -1037465699
+      tileset-pokemon_dawn_294: 1809628982
+      tileset-pokemon_dawn_64: -1600861492
+      tileset-pokemon_dawn_23: 1053876548
+      tileset-pokemon_dawn_61: 1583656650
+      tileset-pokemon_dawn_140: 1708097699
+      tileset-pokemon_dawn_237: -138689120
+      tileset-pokemon_dawn_4: 100762747
+      tileset-pokemon_dawn_292: -2003062122
+      tileset-pokemon_dawn_97: -1089305068
+      tileset-pokemon_dawn_77: -285867796
+      tileset-pokemon_dawn_300: 1571735701
+      tileset-pokemon_dawn_101: 12312381
+      tileset-pokemon_dawn_67: -935607529
+      tileset-pokemon_dawn_177: 1541494407
+      tileset-pokemon_dawn_308: -1922955542
+      tileset-pokemon_dawn_265: 1359146459
+      tileset-pokemon_dawn_277: -1415589323
+      tileset-pokemon_dawn_229: -451809392
+      tileset-pokemon_dawn_132: -114120567
+      tileset-pokemon_dawn_91: 848177898
+      tileset-pokemon_dawn_209: 1724090390
+      tileset-pokemon_dawn_111: 1798644431
+      tileset-pokemon_dawn_63: -141714569
+      tileset-pokemon_dawn_160: -1850975256
+      tileset-pokemon_dawn_326: -1649138007
+      tileset-pokemon_dawn_321: -1555203955
+      tileset-pokemon_dawn_54: 1448890831
+      tileset-pokemon_dawn_286: 1356737108
+      tileset-pokemon_dawn_51: -321923198
+      tileset-pokemon_dawn_241: 1739945226
+      tileset-pokemon_dawn_196: 424982683
+      tileset-pokemon_dawn_278: 177890735
+      tileset-pokemon_dawn_302: 1192786057
+      tileset-pokemon_dawn_86: -1554867666
+      tileset-pokemon_dawn_179: -383384297
+      tileset-pokemon_dawn_256: -1376432706
+      tileset-pokemon_dawn_259: -1580503008
+      tileset-pokemon_dawn_233: 1449733116
+      tileset-pokemon_dawn_33: -526818775
+      tileset-pokemon_dawn_151: -1557033057
+      tileset-pokemon_dawn_255: -2041056747
+      tileset-pokemon_dawn_199: 459683517
+      tileset-pokemon_dawn_36: -180552275
+      tileset-pokemon_dawn_172: -1797178276
+      tileset-pokemon_dawn_118: -1699132577
+      tileset-pokemon_dawn_145: -30986175
+      tileset-pokemon_dawn_41: -671532989
+      tileset-pokemon_dawn_108: -518287419
+      tileset-pokemon_dawn_317: -1571678624
+      tileset-pokemon_dawn_13: -392248148
+      tileset-pokemon_dawn_249: -492125311
+      tileset-pokemon_dawn_218: -1508303701
+      tileset-pokemon_dawn_313: 1946615307
+      tileset-pokemon_dawn_112: 89695695
+      tileset-pokemon_dawn_287: -1133403094
+      tileset-pokemon_dawn_263: 1969066489
+      tileset-pokemon_dawn_7: -1421340909
+      tileset-pokemon_dawn_124: -1941921817
+      tileset-pokemon_dawn_330: 1778578201
+      tileset-pokemon_dawn_92: -1122163370
+      tileset-pokemon_dawn_301: 272135850
+      tileset-pokemon_dawn_264: 835923148
+      tileset-pokemon_dawn_18: -1913534840
+      tileset-pokemon_dawn_27: 459394532
+      tileset-pokemon_dawn_258: 1132172844
+      tileset-pokemon_dawn_136: -114051000
+      tileset-pokemon_dawn_244: -1470230
+      tileset-pokemon_dawn_94: 72382917
+      tileset-pokemon_dawn_230: -473241277
+      tileset-pokemon_dawn_176: -1315538951
+      tileset-pokemon_dawn_137: -1738541619
+      tileset-pokemon_dawn_55: 2049590130
+      tileset-pokemon_dawn_31: -477703829
+      tileset-pokemon_dawn_66: 241966616
+      tileset-pokemon_dawn_1: 1794287927
+      tileset-pokemon_dawn_253: 978322266
+      tileset-pokemon_dawn_73: 877198264
+      tileset-pokemon_dawn_214: -736671884
+      tileset-pokemon_dawn_207: 548101077
+      tileset-pokemon_dawn_154: -1299877084
+      tileset-pokemon_dawn_279: -820763355
+      tileset-pokemon_dawn_272: -1793864038
+      tileset-pokemon_dawn_49: -1833608424
+      tileset-pokemon_dawn_90: 984280934
+      tileset-pokemon_dawn_243: -2099531840
+      tileset-pokemon_dawn_158: 74942131
+      tileset-pokemon_dawn_245: -498863892
+      tileset-pokemon_dawn_221: 1153983864
+      tileset-pokemon_dawn_268: 2088177258
+      tileset-pokemon_dawn_182: 402368917
+      tileset-pokemon_dawn_315: 1355814751
+      tileset-pokemon_dawn_146: -1666996579
+      tileset-pokemon_dawn_168: -1038140277
+      tileset-pokemon_dawn_170: -730314385
+      tileset-pokemon_dawn_332: -2108254572
+      tileset-pokemon_dawn_296: 1307184715
+      tileset-pokemon_dawn_212: 1079457929
+      tileset-pokemon_dawn_205: 1999781005
+      tileset-pokemon_dawn_235: 728883335
+      tileset-pokemon_dawn_102: -1641031502
+      tileset-pokemon_dawn_297: 88874392
+      tileset-pokemon_dawn_309: 1829913102
+      tileset-pokemon_dawn_261: -2064645566
+      tileset-pokemon_dawn_24: 1365532938
+      tileset-pokemon_dawn_109: 1970266404
+      tileset-pokemon_dawn_115: -1680712963
+      tileset-pokemon_dawn_127: -1520449103
+      tileset-pokemon_dawn_290: 706728107
+      tileset-pokemon_dawn_85: -98430415
+      tileset-pokemon_dawn_11: -2037018943
+      tileset-pokemon_dawn_12: 1008459170
+      tileset-pokemon_dawn_234: 573139751
+      tileset-pokemon_dawn_44: 1320864480
+      tileset-pokemon_dawn_135: 1700776480
+      tileset-pokemon_dawn_157: -901043453
+      tileset-pokemon_dawn_291: -2069180994
+      tileset-pokemon_dawn_248: -1235775903
+      tileset-pokemon_dawn_211: 564786245
+      tileset-pokemon_dawn_215: -1130661286
+      tileset-pokemon_dawn_47: -1417244627
+      tileset-pokemon_dawn_254: 509357465
+      tileset-pokemon_dawn_20: -1414878090
+      tileset-pokemon_dawn_138: 2121869446
+      tileset-pokemon_dawn_275: -1306491180
+      tileset-pokemon_dawn_87: -27548837
+      tileset-pokemon_dawn_116: -505988914
+      tileset-pokemon_dawn_129: 1900631322
+      tileset-pokemon_dawn_95: -2101444786
+      tileset-pokemon_dawn_39: 531136015
+      tileset-pokemon_dawn_100: -79911553
+      tileset-pokemon_dawn_96: -1616297258
+      tileset-pokemon_dawn_251: 580595351
+      tileset-pokemon_dawn_45: -705625473
+      tileset-pokemon_dawn_285: -29090290
+      tileset-pokemon_dawn_82: -2047320174
+      tileset-pokemon_dawn_43: -1902412333
+      tileset-pokemon_dawn_188: 328562043
+      tileset-pokemon_dawn_202: -1829527554
+      tileset-pokemon_dawn_276: -1243276544
+      tileset-pokemon_dawn_306: 150840025
+      tileset-pokemon_dawn_58: 417286098
+      tileset-pokemon_dawn_171: -1078307409
+      tileset-pokemon_dawn_183: 430631521
+      tileset-pokemon_dawn_203: -1248307376
+      tileset-pokemon_dawn_52: 988893344
+      tileset-pokemon_dawn_206: -1367536772
+      tileset-pokemon_dawn_213: -1175374217
+      tileset-pokemon_dawn_60: 1142694186
+      tileset-pokemon_dawn_316: 331555521
+      tileset-pokemon_dawn_295: 2113421915
+      tileset-pokemon_dawn_119: 1529694757
+      tileset-pokemon_dawn_231: 768265710
+      tileset-pokemon_dawn_81: 927080379
+      tileset-pokemon_dawn_247: 2085235983
+      tileset-pokemon_dawn_167: -224982574
+      tileset-pokemon_dawn_0: -1136234971
+      tileset-pokemon_dawn_19: 73005756
+      tileset-pokemon_dawn_28: 1575646822
+      tileset-pokemon_dawn_163: 618436348
+      tileset-pokemon_dawn_126: -1969649963
+      tileset-pokemon_dawn_134: -565396051
+      tileset-pokemon_dawn_217: 1539012495
+      tileset-pokemon_dawn_69: -220758001
+      tileset-pokemon_dawn_32: 1498748989
+      tileset-pokemon_dawn_271: -907482056
+      tileset-pokemon_dawn_198: 68060042
+      tileset-pokemon_dawn_83: -2026709272
+      tileset-pokemon_dawn_16: 524056789
+      tileset-pokemon_dawn_78: 1601765687
+      tileset-pokemon_dawn_74: 1156247058
+      tileset-pokemon_dawn_195: -315598576
+      tileset-pokemon_dawn_186: 1721698070
+      tileset-pokemon_dawn_88: 837495940
+      tileset-pokemon_dawn_323: 821736348
+      tileset-pokemon_dawn_75: -762898808
+      tileset-pokemon_dawn_103: -920875639
+      tileset-pokemon_dawn_304: -1353652004
+      tileset-pokemon_dawn_312: -1090553727
+      tileset-pokemon_dawn_333: 1613924067
+      tileset-pokemon_dawn_191: 1649978171
+      tileset-pokemon_dawn_30: 1047475961
+      tileset-pokemon_dawn_133: 1757587186
+      tileset-pokemon_dawn_240: -1693826942
+      tileset-pokemon_dawn_155: -1877126904
+      tileset-pokemon_dawn_192: -1534348424
+      tileset-pokemon_dawn_178: -1560898607
+      tileset-pokemon_dawn_219: 1449812912
+      tileset-pokemon_dawn_310: -931339593
+      tileset-pokemon_dawn_48: -1343542154
+      tileset-pokemon_dawn_114: -670983551
+      tileset-pokemon_dawn_131: 131697159
+      tileset-pokemon_dawn_34: -1870500415
+      tileset-pokemon_dawn_62: 276117863
+      tileset-pokemon_dawn_324: -182709119
+      tileset-pokemon_dawn_122: 1230076385
+      tileset-pokemon_dawn_121: -331495064
+      tileset-pokemon_dawn_174: 1774623878
+      tileset-pokemon_dawn_293: 2052308359
+      tileset-pokemon_dawn_334: -1585843310
+      tileset-pokemon_dawn_15: -94620707
+      tileset-pokemon_dawn_65: 1880489198
+      tileset-pokemon_dawn_72: 1070351160
+      tileset-pokemon_dawn_152: -167097744
+      tileset-pokemon_dawn_161: -476491282
+      tileset-pokemon_dawn_169: 1580763741
+      tileset-pokemon_dawn_185: -652958842
+      tileset-pokemon_dawn_9: -146651319
+      tileset-pokemon_dawn_165: -984584816
+      tileset-pokemon_dawn_331: -8412016
+      tileset-pokemon_dawn_117: 1162163362
+      tileset-pokemon_dawn_148: 894523206
+      tileset-pokemon_dawn_181: 2001359383
+      tileset-pokemon_dawn_220: 1097343973
+      tileset-pokemon_dawn_187: 205444386
+      tileset-pokemon_dawn_270: 1126723489
+      tileset-pokemon_dawn_107: -1749356434
+      tileset-pokemon_dawn_139: -1483150339
+      tileset-pokemon_dawn_130: 1625428612
+      tileset-pokemon_dawn_68: -167332631
+      tileset-pokemon_dawn_6: -220237085
+      tileset-pokemon_dawn_40: 1441772068
+      tileset-pokemon_dawn_194: -838282714
+      tileset-pokemon_dawn_162: 1438655689
+      tileset-pokemon_dawn_3: -833021124
+      tileset-pokemon_dawn_106: 1923349105
+      tileset-pokemon_dawn_197: -1380854938
+      tileset-pokemon_dawn_246: -1944983580
+      tileset-pokemon_dawn_143: 587554295
+      tileset-pokemon_dawn_281: -1004594195
+      tileset-pokemon_dawn_227: 1095624406
+      tileset-pokemon_dawn_327: 1018786613
+      tileset-pokemon_dawn_84: 1085784295
+      tileset-pokemon_dawn_262: -1427290089
+      tileset-pokemon_dawn_232: -1759555990
+      tileset-pokemon_dawn_311: 1785243148
+      tileset-pokemon_dawn_298: -1393218393
+      tileset-pokemon_dawn_210: -1516395135
+      tileset-pokemon_dawn_79: -174128517
+      tileset-pokemon_dawn_29: 1371067983
+      tileset-pokemon_dawn_319: -83733856
+      tileset-pokemon_dawn_53: 465470966
+      tileset-pokemon_dawn_10: -921718632
+      tileset-pokemon_dawn_190: 682786976
+      tileset-pokemon_dawn_226: -503849660
+      tileset-pokemon_dawn_260: -1275230589
+      tileset-pokemon_dawn_110: -1310948742
+      tileset-pokemon_dawn_46: 2009341238
+      tileset-pokemon_dawn_180: -47909745
+      tileset-pokemon_dawn_201: -754851278
+      tileset-pokemon_dawn_123: -990073570
+      tileset-pokemon_dawn_328: 1856693818
+      tileset-pokemon_dawn_288: -2098770416
+      tileset-pokemon_dawn_76: 1137091319
+      tileset-pokemon_dawn_37: 53327640
+      tileset-pokemon_dawn_113: -634917285
+      tileset-pokemon_dawn_142: 458912130
+      tileset-pokemon_dawn_71: -1361854878
+      tileset-pokemon_dawn_104: 297878955
+      tileset-pokemon_dawn_159: -433496959
+      tileset-pokemon_dawn_242: -924590444
+      tileset-pokemon_dawn_273: 42202869
+      tileset-pokemon_dawn_22: -1886101390
+      tileset-pokemon_dawn_8: 728806355
+      tileset-pokemon_dawn_21: -2140252128
+      tileset-pokemon_dawn_223: -1425011600
+      tileset-pokemon_dawn_282: -520421529
+      tileset-pokemon_dawn_283: -1432904555
+      tileset-pokemon_dawn_26: 1457890344
+      tileset-pokemon_dawn_50: 635528210
+      tileset-pokemon_dawn_299: -755453913
+      tileset-pokemon_dawn_225: -904250883
+      tileset-pokemon_dawn_175: -1443716178
+      tileset-pokemon_dawn_38: 189251270
+      tileset-pokemon_dawn_89: 295250474
+      tileset-pokemon_dawn_189: -746353489
+      tileset-pokemon_dawn_57: -1438236824
+      tileset-pokemon_dawn_153: 1948970876
+      tileset-pokemon_dawn_125: -1352301478
+      tileset-pokemon_dawn_307: 2048792036
+      tileset-pokemon_dawn_80: -2131409227
+      tileset-pokemon_dawn_105: -2111077468
+      tileset-pokemon_dawn_149: 107767565
+      tileset-pokemon_dawn_164: 153141576
+      tileset-pokemon_dawn_318: 992479954
+      tileset-pokemon_dawn_224: 339418894
+      tileset-pokemon_dawn_166: -1905548612
+      tileset-pokemon_dawn_35: -1431281342
+      tileset-pokemon_dawn_284: 1543641416
+      tileset-pokemon_dawn_335: 1303131826
+      tileset-pokemon_dawn_193: -1302608779
+      tileset-pokemon_dawn_5: -2138857531
+      tileset-pokemon_dawn_204: 372828706
+      tileset-pokemon_dawn_269: 27653933
+      tileset-pokemon_dawn_156: 397912501
+      tileset-pokemon_dawn_42: 1871523933
+      tileset-pokemon_dawn_257: 868979740
+      tileset-pokemon_dawn_222: -2055094876
+      tileset-pokemon_dawn_280: -1754047740
+      tileset-pokemon_dawn_267: -1642420881
+      tileset-pokemon_dawn_239: -929630343
+      tileset-pokemon_dawn_314: -474051159
+      tileset-pokemon_dawn_305: 588280329
+      tileset-pokemon_dawn_2: 249267419
+      tileset-pokemon_dawn_250: 2139457755
+      tileset-pokemon_dawn_184: 1979032267
+      tileset-pokemon_dawn_320: -2124706348
+      tileset-pokemon_dawn_56: 266567407
+      tileset-pokemon_dawn_216: -1210117960
+      tileset-pokemon_dawn_325: -1812973150
+      tileset-pokemon_dawn_289: -531767107
+      tileset-pokemon_dawn_252: 218542849
+      tileset-pokemon_dawn_322: -438612008
+      tileset-pokemon_dawn_329: 831155956
+      tileset-pokemon_dawn_150: 821928693
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
